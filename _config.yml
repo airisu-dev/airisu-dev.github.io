@@ -1,0 +1,12 @@
+title: airisu.dev
+description: Personal site of airisu-dev
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Exclude files from the generated site
+exclude:
+  - README.md

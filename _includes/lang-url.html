@@ -1,0 +1,1 @@
+{%- if include.lang == site.default_lang -%}{{ site.baseurl }}{{ page.url }}{%- else -%}{{ site.baseurl }}/{{ include.lang }}{{ page.url }}{%- endif -%}

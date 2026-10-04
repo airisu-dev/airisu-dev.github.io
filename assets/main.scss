@@ -5,21 +5,67 @@
 
 .language-switcher {
   float: right;
+  position: relative;
   line-height: $base-line-height * $base-font-size * 2.25;
   margin-left: 20px;
 
-  a {
-    margin-left: 8px;
-    text-decoration: none;
+  summary {
+    cursor: pointer;
     color: $grey-color;
+    list-style: none;
+
+    &::-webkit-details-marker {
+      display: none;
+    }
+
+    &::after {
+      content: " \25BE";
+    }
+  }
+
+  ul {
+    position: absolute;
+    right: 0;
+    top: 100%;
+    margin: 0;
+    padding: 4px 0;
+    list-style: none;
+    background: $background-color;
+    border: 1px solid $grey-color-light;
+    min-width: 60px;
+    z-index: 10;
+  }
+
+  li a {
+    display: block;
+    padding: 4px 12px;
+    text-decoration: none;
+    color: $text-color;
 
     &.active {
-      color: $text-color;
       font-weight: 700;
     }
 
     &:hover {
-      text-decoration: underline;
+      background: $grey-color-light;
     }
+  }
+
+  @include media-query($on-palm) {
+    display: none;
+  }
+}
+
+.lang-links-mobile {
+  display: none;
+
+  @include media-query($on-palm) {
+    display: block;
+    border-top: 1px solid $grey-color-light;
+    margin-top: 5px;
+  }
+
+  .lang-link.active {
+    font-weight: 700;
   }
 }

@@ -1,8 +1,6 @@
-<div class="language-switcher">
-  {%- for lang in site.languages -%}
-    <a
-      class="{% if lang == page.lang %}active{% endif %}"
-      {% static_href %}href="{% if lang == site.default_lang %}{{ site.baseurl }}{{ page.url }}{% else %}{{ site.baseurl }}/{{ lang }}{{ page.url }}{% endif %}"{% endstatic_href %}
-    >{{ lang | upcase }}</a>
-  {%- endfor -%}
-</div>
+<details class="language-switcher">
+  <summary>{{ page.lang | default: site.default_lang | upcase }}</summary>
+  <ul>
+    {%- include language-links.html as_menu=true -%}
+  </ul>
+</details>

@@ -1,0 +1,30 @@
+<head>
+  <meta charset="utf-8">
+  <script>
+  (function () {
+    try {
+      if (localStorage.getItem('LANGUAGE')) { return; }
+      var map = {
+        {%- for lang in site.languages -%}
+        "{{ lang }}": "{% include lang-url.html lang=lang %}"{% unless forloop.last %},{% endunless %}
+        {%- endfor -%}
+      };
+      var current = "{{ page.lang | default: site.default_lang }}";
+      var candidates = (navigator.languages && navigator.languages.length) ? navigator.languages : [navigator.language || navigator.userLanguage || ""];
+      for (var i = 0; i < candidates.length; i++) {
+        var code = (candidates[i] || "").slice(0, 2).toLowerCase();
+        if (map[code] && code !== current) { window.location.replace(map[code]); break; }
+      }
+    } catch (e) {}
+  })();
+  </script>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {%- seo -%}
+  <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+  {%- feed_meta -%}
+  {%- if jekyll.environment == 'production' and site.google_analytics -%}
+    {%- include google-analytics.html -%}
+  {%- endif -%}
+  <script defer src="{{ "/assets/js/language-switcher.js" | relative_url }}"></script>
+</head>

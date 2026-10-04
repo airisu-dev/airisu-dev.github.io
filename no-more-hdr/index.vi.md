@@ -3,6 +3,7 @@ layout: page
 title: "No More HDR: Hỗ trợ"
 permalink: /no-more-hdr/
 lang: vi
+share-description: "No More HDR tìm các ảnh có độ sáng HDR ẩn và tạo bản sao êm dịu, trông bình thường, được xử lý hoàn toàn trên thiết bị của bạn."
 ---
 
 No More HDR tìm các ảnh có độ sáng HDR ẩn (hiệu ứng "chớp sáng" mà một số ảnh tạo ra khi bạn gửi cho người khác) và tạo ra các bản sao SDR trông giống nhau trên mọi màn hình. Ảnh của bạn không bao giờ rời khỏi thiết bị.
@@ -75,3 +76,4 @@ Bạn cũng có thể gửi email trực tiếp đến [airisu-dev@gmail.com](ma
 ## Thêm
 
 - [Chính sách quyền riêng tư](/no-more-hdr/privacy/)
+- [Báo lỗi](/no-more-hdr/report/)

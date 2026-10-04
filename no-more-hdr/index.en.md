@@ -3,6 +3,7 @@ layout: page
 title: "No More HDR: Support"
 permalink: /no-more-hdr/
 lang: en
+share-description: "No More HDR finds photos with hidden HDR brightness and makes calm, normal-looking copies, processed entirely on your device."
 ---
 
 No More HDR finds photos that carry hidden HDR brightness (the "flash" some photos give when you send them to someone) and makes SDR copies that look the same on every screen. Your photos never leave your device.
@@ -75,3 +76,4 @@ You can also use the [problem report form](https://tally.so/r/KYqpBg) or email [
 ## More
 
 - [Privacy Policy](/no-more-hdr/privacy/)
+- [Report a problem](/no-more-hdr/report/)

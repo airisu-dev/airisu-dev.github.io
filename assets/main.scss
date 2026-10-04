@@ -1,0 +1,25 @@
+---
+---
+
+@import "minima";
+
+.language-switcher {
+  float: right;
+  line-height: $base-line-height * $base-font-size * 2.25;
+  margin-left: 20px;
+
+  a {
+    margin-left: 8px;
+    text-decoration: none;
+    color: $grey-color;
+
+    &.active {
+      color: $text-color;
+      font-weight: 700;
+    }
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}

@@ -7,7 +7,7 @@ lang: en
 
 No More HDR finds photos that carry hidden HDR brightness (the "flash" some photos give when you send them to someone) and makes SDR copies that look the same on every screen. Your photos never leave your device.
 
-Need help? Email us at airisu-dev@gmail.com, or see [how to report a problem](#how-to-report-a-problem).
+Need help? Email us at [airisu-dev@gmail.com](mailto:airisu-dev@gmail.com), or see [how to report a problem](#how-to-report-a-problem).
 
 ## How to use it
 
@@ -70,8 +70,8 @@ In the app, open **Settings > Report a problem**. It opens an email to us with y
 - the type of photo (for example a standard photo, Live Photo, screenshot, iCloud photo or imported photo) and what happened;
 - what you expected to happen, and any message you saw.
 
-You can also use the [problem report form](https://tally.so/r/KYqpBg) or email airisu-dev@gmail.com directly. Please do not send private photos unless we ask for one.
+You can also use the [problem report form](https://tally.so/r/KYqpBg) or email [airisu-dev@gmail.com](mailto:airisu-dev@gmail.com) directly. Please do not send private photos unless we ask for one.
 
 ## More
 
-- Privacy Policy: /no-more-hdr/privacy/
+- [Privacy Policy](/no-more-hdr/privacy/)

@@ -7,7 +7,7 @@ lang: vi
 
 No More HDR tìm các ảnh có độ sáng HDR ẩn (hiệu ứng "chớp sáng" mà một số ảnh tạo ra khi bạn gửi cho người khác) và tạo ra các bản sao SDR trông giống nhau trên mọi màn hình. Ảnh của bạn không bao giờ rời khỏi thiết bị.
 
-Cần hỗ trợ? Gửi email cho chúng tôi tại airisu-dev@gmail.com, hoặc xem [cách báo lỗi](#cách-báo-lỗi).
+Cần hỗ trợ? Gửi email cho chúng tôi tại [airisu-dev@gmail.com](mailto:airisu-dev@gmail.com), hoặc xem [cách báo lỗi](#cách-báo-lỗi).
 
 ## Cách sử dụng
 
@@ -70,8 +70,8 @@ Trong ứng dụng, mở **Settings > Report a problem**. Nó sẽ mở một em
 - loại ảnh (ví dụ ảnh thường, Live Photo, ảnh chụp màn hình, ảnh iCloud hoặc ảnh đã nhập) và điều gì đã xảy ra;
 - điều bạn mong đợi sẽ xảy ra, và bất kỳ thông báo nào bạn thấy.
 
-Bạn cũng có thể gửi email trực tiếp đến airisu-dev@gmail.com. Vui lòng không gửi ảnh riêng tư trừ khi chúng tôi yêu cầu.
+Bạn cũng có thể gửi email trực tiếp đến [airisu-dev@gmail.com](mailto:airisu-dev@gmail.com). Vui lòng không gửi ảnh riêng tư trừ khi chúng tôi yêu cầu.
 
 ## Thêm
 
-- Chính sách quyền riêng tư: /no-more-hdr/privacy/
+- [Chính sách quyền riêng tư](/no-more-hdr/privacy/)

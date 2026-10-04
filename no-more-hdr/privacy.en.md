@@ -40,7 +40,7 @@ The app shows ads from Google AdMob ("our advertising partner"). To load and sho
 - device information such as model, operating system and language, and information about how you interact with ads;
 - identifiers and usage data about the app and the ads you see.
 
-Ads may be personalized if you allow tracking, and are non-personalized if you decline. You can change this at any time in iOS Settings > Privacy & Security > Tracking, and limit ad personalization in iOS Settings > Privacy & Security > Apple Advertising. If you are in the European Economic Area, the UK or another region that requires it, the app asks for your consent before showing personalized ads. The advertising partner handles this data under its own privacy policy: https://policies.google.com/technologies/partner-sites. None of your photos or photo information is ever shared with the advertising partner.
+Ads may be personalized if you allow tracking, and are non-personalized if you decline. You can change this at any time in iOS Settings > Privacy & Security > Tracking, and limit ad personalization in iOS Settings > Privacy & Security > Apple Advertising. If you are in the European Economic Area, the UK or another region that requires it, the app asks for your consent before showing personalized ads. The advertising partner handles this data under its own privacy policy: [https://policies.google.com/technologies/partner-sites](https://policies.google.com/technologies/partner-sites). None of your photos or photo information is ever shared with the advertising partner.
 
 ### Analytics
 
@@ -51,7 +51,7 @@ The app uses Google Firebase Analytics, provided by Google, to help us understan
 - device and app information such as model, operating system and version, language, app version, and approximate location derived from your IP address (not precise location);
 - if you allow tracking when the app asks, your advertising identifier (IDFA).
 
-This data is used for analytics and, where you allow it, to help measure and personalize ads. Google processes it under its own terms: https://firebase.google.com/support/privacy and https://policies.google.com/privacy. You can limit it in iOS Settings > Privacy & Security > Tracking.
+This data is used for analytics and, where you allow it, to help measure and personalize ads. Google processes it under its own terms: [https://firebase.google.com/support/privacy](https://firebase.google.com/support/privacy) and [https://policies.google.com/privacy](https://policies.google.com/privacy). You can limit it in iOS Settings > Privacy & Security > Tracking.
 
 ### Performance data
 
@@ -69,7 +69,7 @@ The app can receive small updates to its code over the air, so we can fix bugs w
 
 ### Reports and messages you choose to send
 
-The app has "Report a problem" and "Contact developer" links in Settings. These open your email app with a draft addressed to airisu-dev@gmail.com. A problem report draft is pre-filled with the app version and your iOS version so we can help you. Nothing is sent until you press Send in your email app, and you can edit or delete anything in the draft first, including what you attach. We will see your email address and anything you choose to include, and we use it only to reply to you and to fix the problem. We do not add you to any list.
+The app has "Report a problem" and "Contact developer" links in Settings. These open your email app with a draft addressed to [airisu-dev@gmail.com](mailto:airisu-dev@gmail.com). A problem report draft is pre-filled with the app version and your iOS version so we can help you. Nothing is sent until you press Send in your email app, and you can edit or delete anything in the draft first, including what you attach. We will see your email address and anything you choose to include, and we use it only to reply to you and to fix the problem. We do not add you to any list.
 
 ### Sharing
 
@@ -93,13 +93,13 @@ The Privacy Policy and Support links in Settings open a web page in your browser
 - **Clear scan data:** in the app, go to Settings > Cache. "Clear scan cache" deletes the scan index and rechecks your library. "Clear app cache" also deletes any app-private copies not yet saved to your library and forgets which photos are marked as Fixed. Photos you already saved to your library are not deleted.
 - **Imported photos:** Settings > Imported photos > "Remove all imported photos" deletes the copies kept inside the app. Your photo library is not changed.
 - **Delete everything:** uninstalling the app deletes all the data it keeps on your device. Copies you saved to your photo library are your photos and stay there until you delete them.
-- **Analytics:** you can stop the app sharing the advertising identifier at any time in iOS Settings > Privacy & Security > Tracking. If you would like your analytics data deleted, contact us at airisu-dev@gmail.com with the details we need to find it.
+- **Analytics:** you can stop the app sharing the advertising identifier at any time in iOS Settings > Privacy & Security > Tracking. If you would like your analytics data deleted, contact us at [airisu-dev@gmail.com](mailto:airisu-dev@gmail.com) with the details we need to find it.
 - **Ads and tracking:** change your choice in iOS Settings > Privacy & Security > Tracking, or turn off personalized ads there. Reset your advertising identifier in the same place.
-- **Performance data:** because the data is anonymous and not linked to you, we cannot look up or delete the records of a particular person. If you have questions, contact us at airisu-dev@gmail.com.
+- **Performance data:** because the data is anonymous and not linked to you, we cannot look up or delete the records of a particular person. If you have questions, contact us at [airisu-dev@gmail.com](mailto:airisu-dev@gmail.com).
 
 ## Children
 
-The app is not directed at children under 13 (or the minimum age in your country), and we do not knowingly collect personal information from anyone. It has no accounts and does not ask for personal details. Ads shown in the app are not directed at children. If you believe a child has sent us personal information, for example in an email, contact us at airisu-dev@gmail.com and we will delete it.
+The app is not directed at children under 13 (or the minimum age in your country), and we do not knowingly collect personal information from anyone. It has no accounts and does not ask for personal details. Ads shown in the app are not directed at children. If you believe a child has sent us personal information, for example in an email, contact us at [airisu-dev@gmail.com](mailto:airisu-dev@gmail.com) and we will delete it.
 
 ## Changes to this policy
 
@@ -107,7 +107,7 @@ If we change how the app handles information, we will update this page and the e
 
 ## Contact
 
-Questions or requests about this policy: airisu-dev@gmail.com
+Questions or requests about this policy: [airisu-dev@gmail.com](mailto:airisu-dev@gmail.com)
 
 airisu.dev
 

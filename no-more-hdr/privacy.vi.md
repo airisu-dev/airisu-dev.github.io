@@ -40,7 +40,7 @@ Không có dữ liệu nào trong số này được gửi cho chúng tôi. Tấ
 - thông tin thiết bị như dòng máy, hệ điều hành và ngôn ngữ, cùng thông tin về cách bạn tương tác với quảng cáo;
 - các mã định danh và dữ liệu sử dụng về ứng dụng và quảng cáo bạn xem.
 
-Quảng cáo có thể được cá nhân hóa nếu bạn cho phép theo dõi, và không cá nhân hóa nếu bạn từ chối. Bạn có thể thay đổi điều này bất cứ lúc nào trong iOS Settings > Privacy & Security > Tracking, và hạn chế cá nhân hóa quảng cáo trong iOS Settings > Privacy & Security > Apple Advertising. Nếu bạn ở Khu vực Kinh tế châu Âu, Vương quốc Anh hoặc khu vực khác yêu cầu điều này, ứng dụng sẽ hỏi sự đồng ý của bạn trước khi hiển thị quảng cáo cá nhân hóa. Đối tác quảng cáo xử lý dữ liệu này theo chính sách riêng của họ: https://policies.google.com/technologies/partner-sites. Không có ảnh hoặc thông tin ảnh nào của bạn được chia sẻ với đối tác quảng cáo.
+Quảng cáo có thể được cá nhân hóa nếu bạn cho phép theo dõi, và không cá nhân hóa nếu bạn từ chối. Bạn có thể thay đổi điều này bất cứ lúc nào trong iOS Settings > Privacy & Security > Tracking, và hạn chế cá nhân hóa quảng cáo trong iOS Settings > Privacy & Security > Apple Advertising. Nếu bạn ở Khu vực Kinh tế châu Âu, Vương quốc Anh hoặc khu vực khác yêu cầu điều này, ứng dụng sẽ hỏi sự đồng ý của bạn trước khi hiển thị quảng cáo cá nhân hóa. Đối tác quảng cáo xử lý dữ liệu này theo chính sách riêng của họ: [https://policies.google.com/technologies/partner-sites](https://policies.google.com/technologies/partner-sites). Không có ảnh hoặc thông tin ảnh nào của bạn được chia sẻ với đối tác quảng cáo.
 
 ### Phân tích (Analytics)
 
@@ -51,7 +51,7 @@ Quảng cáo có thể được cá nhân hóa nếu bạn cho phép theo dõi, 
 - thông tin thiết bị và ứng dụng như dòng máy, hệ điều hành và phiên bản, ngôn ngữ, phiên bản ứng dụng, và vị trí gần đúng suy ra từ địa chỉ IP (không phải vị trí chính xác);
 - nếu bạn cho phép theo dõi lúc ứng dụng hỏi, mã định danh quảng cáo của bạn (IDFA).
 
-Dữ liệu này được dùng cho phân tích và, khi bạn cho phép, để giúp đo lường và cá nhân hóa quảng cáo. Google xử lý dữ liệu này theo các điều khoản riêng của họ: https://firebase.google.com/support/privacy và https://policies.google.com/privacy. Bạn có thể hạn chế điều này trong iOS Settings > Privacy & Security > Tracking.
+Dữ liệu này được dùng cho phân tích và, khi bạn cho phép, để giúp đo lường và cá nhân hóa quảng cáo. Google xử lý dữ liệu này theo các điều khoản riêng của họ: [https://firebase.google.com/support/privacy](https://firebase.google.com/support/privacy) và [https://policies.google.com/privacy](https://policies.google.com/privacy). Bạn có thể hạn chế điều này trong iOS Settings > Privacy & Security > Tracking.
 
 ### Dữ liệu hiệu năng
 
@@ -69,7 +69,7 @@ Mã định danh này không phải Apple ID của bạn, mã định danh quả
 
 ### Báo cáo và tin nhắn bạn chọn gửi
 
-Ứng dụng có các liên kết "Report a problem" và "Contact developer" trong Settings. Những liên kết này mở ứng dụng email của bạn với một bản thảo gửi đến airisu-dev@gmail.com. Bản thảo báo lỗi được điền sẵn phiên bản ứng dụng và phiên bản iOS của bạn để chúng tôi có thể hỗ trợ. Không có gì được gửi đi cho đến khi bạn nhấn Send trong ứng dụng email, và bạn có thể sửa hoặc xóa bất cứ thứ gì trong bản thảo trước, kể cả tệp đính kèm. Chúng tôi sẽ thấy địa chỉ email của bạn và bất cứ điều gì bạn chọn đưa vào, và chỉ dùng nó để trả lời bạn và khắc phục vấn đề. Chúng tôi không thêm bạn vào danh sách nào.
+Ứng dụng có các liên kết "Report a problem" và "Contact developer" trong Settings. Những liên kết này mở ứng dụng email của bạn với một bản thảo gửi đến [airisu-dev@gmail.com](mailto:airisu-dev@gmail.com). Bản thảo báo lỗi được điền sẵn phiên bản ứng dụng và phiên bản iOS của bạn để chúng tôi có thể hỗ trợ. Không có gì được gửi đi cho đến khi bạn nhấn Send trong ứng dụng email, và bạn có thể sửa hoặc xóa bất cứ thứ gì trong bản thảo trước, kể cả tệp đính kèm. Chúng tôi sẽ thấy địa chỉ email của bạn và bất cứ điều gì bạn chọn đưa vào, và chỉ dùng nó để trả lời bạn và khắc phục vấn đề. Chúng tôi không thêm bạn vào danh sách nào.
 
 ### Chia sẻ
 
@@ -93,13 +93,13 @@ Các liên kết Privacy Policy và Support trong Settings sẽ mở một trang
 - **Xóa dữ liệu quét:** trong ứng dụng, vào Settings > Cache. "Clear scan cache" xóa chỉ mục quét và kiểm tra lại thư viện. "Clear app cache" cũng xóa các bản sao riêng của ứng dụng chưa lưu vào thư viện và quên những ảnh được đánh dấu Fixed. Ảnh bạn đã lưu vào thư viện sẽ không bị xóa.
 - **Ảnh đã nhập:** Settings > Imported photos > "Remove all imported photos" xóa các bản sao được giữ trong ứng dụng. Thư viện ảnh của bạn không bị thay đổi.
 - **Xóa tất cả:** gỡ ứng dụng sẽ xóa toàn bộ dữ liệu ứng dụng lưu trên thiết bị. Các bản sao bạn đã lưu vào thư viện ảnh là ảnh của bạn và vẫn ở đó cho đến khi bạn xóa chúng.
-- **Phân tích:** bạn có thể ngừng chia sẻ mã định danh quảng cáo bất cứ lúc nào trong iOS Settings > Privacy & Security > Tracking. Nếu bạn muốn xóa dữ liệu phân tích của mình, liên hệ airisu-dev@gmail.com với thông tin cần để chúng tôi tìm dữ liệu đó.
+- **Phân tích:** bạn có thể ngừng chia sẻ mã định danh quảng cáo bất cứ lúc nào trong iOS Settings > Privacy & Security > Tracking. Nếu bạn muốn xóa dữ liệu phân tích của mình, liên hệ [airisu-dev@gmail.com](mailto:airisu-dev@gmail.com) với thông tin cần để chúng tôi tìm dữ liệu đó.
 - **Quảng cáo và theo dõi:** thay đổi lựa chọn của bạn trong iOS Settings > Privacy & Security > Tracking, hoặc tắt quảng cáo cá nhân hóa tại đó. Đặt lại mã định danh quảng cáo của bạn ở cùng nơi.
-- **Dữ liệu hiệu năng:** vì dữ liệu này ẩn danh và không gắn với bạn, chúng tôi không thể tra cứu hoặc xóa bản ghi của một người cụ thể. Nếu bạn có câu hỏi, liên hệ airisu-dev@gmail.com.
+- **Dữ liệu hiệu năng:** vì dữ liệu này ẩn danh và không gắn với bạn, chúng tôi không thể tra cứu hoặc xóa bản ghi của một người cụ thể. Nếu bạn có câu hỏi, liên hệ [airisu-dev@gmail.com](mailto:airisu-dev@gmail.com).
 
 ## Trẻ em
 
-Ứng dụng không hướng đến trẻ em dưới 13 tuổi (hoặc tuổi tối thiểu theo quy định tại quốc gia của bạn), và chúng tôi không cố ý thu thập thông tin cá nhân từ bất kỳ ai. Ứng dụng không có tài khoản và không yêu cầu thông tin cá nhân. Quảng cáo trong ứng dụng không hướng đến trẻ em. Nếu bạn tin rằng một trẻ em đã gửi cho chúng tôi thông tin cá nhân, ví dụ qua email, hãy liên hệ airisu-dev@gmail.com và chúng tôi sẽ xóa nó.
+Ứng dụng không hướng đến trẻ em dưới 13 tuổi (hoặc tuổi tối thiểu theo quy định tại quốc gia của bạn), và chúng tôi không cố ý thu thập thông tin cá nhân từ bất kỳ ai. Ứng dụng không có tài khoản và không yêu cầu thông tin cá nhân. Quảng cáo trong ứng dụng không hướng đến trẻ em. Nếu bạn tin rằng một trẻ em đã gửi cho chúng tôi thông tin cá nhân, ví dụ qua email, hãy liên hệ [airisu-dev@gmail.com](mailto:airisu-dev@gmail.com) và chúng tôi sẽ xóa nó.
 
 ## Thay đổi đối với chính sách này
 
@@ -107,6 +107,6 @@ Nếu chúng tôi thay đổi cách ứng dụng xử lý thông tin, chúng tô
 
 ## Liên hệ
 
-Câu hỏi hoặc yêu cầu về chính sách này: airisu-dev@gmail.com
+Câu hỏi hoặc yêu cầu về chính sách này: [airisu-dev@gmail.com](mailto:airisu-dev@gmail.com)
 
 airisu.dev

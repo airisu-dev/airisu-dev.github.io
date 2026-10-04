@@ -1,8 +1,6 @@
 {%- assign current = page.lang | default: site.default_lang -%}
-<a class="language-switcher" href="{{ "/language/" | relative_url }}" aria-label="{{ site.data.language_names[current] | default: current }}" title="{{ site.data.language_names[current] | default: current }}">
-  <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-    <circle cx="12" cy="12" r="10"></circle>
-    <line x1="2" y1="12" x2="22" y2="12"></line>
-    <path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path>
-  </svg>
+{%- assign current_name = site.data.language_names[current] | default: current -%}
+<a class="nav-link" id="nav-lang-link" href="{{ "/language/" | relative_url }}" title="{{ current_name }}">
+  <span id="nav-lang-icon" class="fa fa-globe"></span>
+  <span id="nav-lang-text">{{ current_name }}</span>
 </a>

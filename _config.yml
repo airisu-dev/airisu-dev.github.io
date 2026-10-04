@@ -1,11 +1,22 @@
 title: airisu.dev
-description: Personal site of airisu-dev
+author: airisu.dev
 url: "https://airisu-dev.github.io"
-theme: minima
+
+theme: beautiful-jekyll-theme
+
+# No avatar image of our own - omit `avatar:` so the nav falls back to
+# showing the site title as text instead of the theme's placeholder image.
+post_search: false # no blog posts yet, so a post-search box would be dead weight
+
+social-network-links:
+  email: "airisu-dev@gmail.com"
+
+site-css:
+  - "/assets/css/custom.css"
+site-js:
+  - "/assets/js/language-switcher.js"
 
 plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-polyglot
 
@@ -16,3 +27,10 @@ parallel_localization: true
 # jekyll-sitemap generates its own sitemap.xml per language pass; excluding it
 # from localization keeps a single canonical sitemap instead of colliding copies.
 exclude_from_localization: ["sitemap.xml"]
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+exclude:
+  - README.md

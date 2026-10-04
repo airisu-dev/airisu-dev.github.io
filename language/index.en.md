@@ -5,6 +5,4 @@ permalink: /language/
 lang: en
 ---
 
-Choose a language:
-
 {% include language-picker.html %}

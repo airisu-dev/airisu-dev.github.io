@@ -5,67 +5,44 @@
 
 .language-switcher {
   float: right;
-  position: relative;
-  line-height: $base-line-height * $base-font-size * 2.25;
+  display: flex;
+  align-items: center;
+  height: $base-line-height * $base-font-size * 2.25;
   margin-left: 20px;
+  color: $grey-color;
 
-  summary {
-    cursor: pointer;
-    color: $grey-color;
-    list-style: none;
-
-    &::-webkit-details-marker {
-      display: none;
-    }
-
-    &::after {
-      content: " \25BE";
-    }
-  }
-
-  ul {
-    position: absolute;
-    right: 0;
-    top: 100%;
-    margin: 0;
-    padding: 4px 0;
-    list-style: none;
-    background: $background-color;
-    border: 1px solid $grey-color-light;
-    min-width: 60px;
-    z-index: 10;
-  }
-
-  li a {
-    display: block;
-    padding: 4px 12px;
-    text-decoration: none;
+  &:hover {
     color: $text-color;
-
-    &.active {
-      font-weight: 700;
-    }
-
-    &:hover {
-      background: $grey-color-light;
-    }
-  }
-
-  @include media-query($on-palm) {
-    display: none;
   }
 }
 
-.lang-links-mobile {
-  display: none;
+.language-picker {
+  list-style: none;
+  margin: 2em 0 0;
+  padding: 0;
+  max-width: 360px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
 
-  @include media-query($on-palm) {
+  a {
     display: block;
-    border-top: 1px solid $grey-color-light;
-    margin-top: 5px;
-  }
+    padding: 16px 20px;
+    border: 1px solid $grey-color-light;
+    border-radius: 8px;
+    color: $text-color;
+    text-decoration: none;
+    @include relative-font-size(1.2);
+    transition: border-color 0.15s ease, background-color 0.15s ease;
 
-  .lang-link.active {
-    font-weight: 700;
+    &.active {
+      font-weight: 700;
+      border-color: $brand-color;
+    }
+
+    &:hover {
+      border-color: $brand-color;
+      background-color: $grey-color-light;
+    }
   }
 }

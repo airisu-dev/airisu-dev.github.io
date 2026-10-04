@@ -1,0 +1,10 @@
+<ul class="language-picker">
+  {%- for lang in site.languages -%}
+    {%- assign href = site.baseurl -%}
+    {%- unless lang == site.default_lang -%}{%- assign href = href | append: "/" | append: lang -%}{%- endunless -%}
+    {%- assign href = href | append: "/" -%}
+    <li>
+      <a data-lang="{{ lang }}" class="{% if lang == page.lang %}active{% endif %}" {% static_href %}href="{{ href }}"{% endstatic_href %}>{{ site.data.language_names[lang] | default: lang | upcase }}</a>
+    </li>
+  {%- endfor -%}
+</ul>

@@ -11,10 +11,12 @@
       };
       var current = "{{ page.lang | default: site.default_lang }}";
       var candidates = (navigator.languages && navigator.languages.length) ? navigator.languages : [navigator.language || navigator.userLanguage || ""];
+      var best = null;
       for (var i = 0; i < candidates.length; i++) {
         var code = (candidates[i] || "").slice(0, 2).toLowerCase();
-        if (map[code] && code !== current) { window.location.replace(map[code]); break; }
+        if (map[code]) { best = code; break; }
       }
+      if (best && best !== current) { window.location.replace(map[best]); }
     } catch (e) {}
   })();
   </script>

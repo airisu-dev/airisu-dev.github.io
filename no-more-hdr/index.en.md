@@ -37,7 +37,7 @@ If a photo's full-size original is only in iCloud and not on your phone, the app
 iOS lets you share only selected photos with an app. In that case No More HDR sees only the photos you shared. Go to **Settings > Photo access** to manage the selection, or to allow your whole library. You can also use **Import** to check photos from outside your selection.
 
 **How do I change the language?**
-No More HDR follows the language set for it in iOS. Open **Settings > Language > Change language** to jump to the system setting. English and Vietnamese are supported.
+No More HDR follows the language set for it in iOS. Open **Settings > Language > Change language** to jump to the system setting. Supported languages: English, Vietnamese, Spanish, Portuguese (Brazil), Japanese, German, French, Chinese (Simplified), Chinese (Traditional), Korean, Indonesian, Russian, Turkish, Italian, and Thai.
 
 **How do I clear the cache?**
 Open **Settings > Cache**.

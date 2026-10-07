@@ -21,7 +21,7 @@ plugins:
   - jekyll-polyglot
 
 # Polyglot i18n settings
-languages: ["en", "vi"]
+languages: ["en", "vi", "es", "pt-BR", "ja", "de", "fr", "zh-Hans", "zh-Hant", "ko", "id", "ru", "tr", "it", "th"]
 default_lang: "en"
 parallel_localization: true
 # jekyll-sitemap generates its own sitemap.xml per language pass; excluding it

@@ -13,7 +13,15 @@
       var candidates = (navigator.languages && navigator.languages.length) ? navigator.languages : [navigator.language || navigator.userLanguage || ""];
       var best = null;
       for (var i = 0; i < candidates.length; i++) {
-        var code = (candidates[i] || "").slice(0, 2).toLowerCase();
+        var tag = (candidates[i] || "").toLowerCase();
+        var code = tag.slice(0, 2);
+        if (code === "zh") {
+          code = /^zh-(hant|tw|hk|mo)/.test(tag) ? "zh-Hant" : "zh-Hans";
+        } else if (code === "in") {
+          code = "id";
+        } else if (code === "pt") {
+          code = "pt-BR";
+        }
         if (map[code]) { best = code; break; }
       }
       if (best && best !== current) { window.location.replace(map[best]); }

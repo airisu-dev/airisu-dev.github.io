@@ -37,7 +37,7 @@ Nếu bản gốc đầy đủ của một ảnh chỉ có trên iCloud mà khô
 iOS cho phép bạn chỉ chia sẻ một số ảnh được chọn với một ứng dụng. Trong trường hợp đó, No More HDR chỉ thấy những ảnh bạn đã chia sẻ. Vào **Settings > Photo access** để quản lý lựa chọn, hoặc cho phép truy cập toàn bộ thư viện. Bạn cũng có thể dùng **Import** để kiểm tra ảnh ngoài phạm vi đã chọn.
 
 **Làm sao để đổi ngôn ngữ?**
-No More HDR theo ngôn ngữ được đặt cho ứng dụng trong iOS. Mở **Settings > Language > Change language** để đến thẳng phần thiết lập hệ thống. Ứng dụng hỗ trợ tiếng Anh và tiếng Việt.
+No More HDR theo ngôn ngữ được đặt cho ứng dụng trong iOS. Mở **Settings > Language > Change language** để đến thẳng phần thiết lập hệ thống. Ứng dụng hỗ trợ: tiếng Anh, tiếng Việt, tiếng Tây Ban Nha, tiếng Bồ Đào Nha (Brazil), tiếng Nhật, tiếng Đức, tiếng Pháp, tiếng Trung (giản thể), tiếng Trung (phồn thể), tiếng Hàn, tiếng Indonesia, tiếng Nga, tiếng Thổ Nhĩ Kỳ, tiếng Ý và tiếng Thái.
 
 **Làm sao để xóa bộ nhớ đệm?**
 Mở **Settings > Cache**.

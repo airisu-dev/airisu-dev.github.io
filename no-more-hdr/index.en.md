@@ -6,7 +6,7 @@ lang: en
 share-description: "Stop photos from making your screen too bright. Find hidden HDR in your library and save normal copies, with your originals kept safe."
 ---
 
-Some photos look normal in your library but glow too bright when you send or post them. That is hidden HDR: extra brightness stored inside the photo. No More HDR finds those photos and turns them into normal SDR copies. Your photos never leave your device.
+Captured photos making your phone glow too bright when viewing or posting them. That is hidden HDR: extra brightness stored inside the photo. No More HDR finds those photos and turns them into normal copies. Your photos never leave your device.
 
 Need help? Email us at [airisu-dev@gmail.com](mailto:airisu-dev@gmail.com), or see [how to report a problem](#how-to-report-a-problem).
 

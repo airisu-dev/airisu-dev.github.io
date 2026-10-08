@@ -3,10 +3,10 @@ layout: page
 title: "No More HDR: Support"
 permalink: /no-more-hdr/
 lang: de
-share-description: "No More HDR findet Fotos mit verstecktem HDR-Helligkeitsanteil und erstellt ruhige, normal aussehende Kopien, vollständig auf deinem Gerät verarbeitet."
+share-description: "Schluss mit Fotos, die den Bildschirm zu hell machen. Finde verstecktes HDR in deiner Mediathek und speichere normale Kopien. Deine Originale bleiben sicher."
 ---
 
-No More HDR findet Fotos mit versteckter HDR-Helligkeit (dem „Blitz“, den manche Fotos zeigen, wenn du sie an jemanden schickst) und erstellt SDR-Kopien, die auf jedem Bildschirm gleich aussehen. Deine Fotos verlassen dein Gerät nie.
+Manche Fotos sehen in deiner Mediathek gut aus, leuchten aber viel zu hell, sobald du sie versendest oder postest. Das ist verstecktes HDR: zusätzliche Helligkeit, die im Foto gespeichert ist. No More HDR findet diese Fotos und wandelt sie in normale SDR-Kopien um. Deine Fotos verlassen dein Gerät nie.
 
 Brauchst du Hilfe? Schreib uns an [airisu-dev@gmail.com](mailto:airisu-dev@gmail.com) oder lies, [wie du ein Problem meldest](#how-to-report-a-problem).
 

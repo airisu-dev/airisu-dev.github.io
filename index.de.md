@@ -10,6 +10,6 @@ permalink: /
 
 <h2 class="project-name">No More HDR</h2>
 
-<p class="project-description">Moderne Handys speichern zusätzliche Helligkeitsdaten in Fotos, sodass sie in dem Moment, in dem du sie öffnest oder weiterleitest, grell aufblitzen. No More HDR findet diese Fotos und erstellt ruhige, normal aussehende Kopien, die vollständig auf deinem Gerät verarbeitet werden. Es wird nichts hochgeladen.</p>
+<p class="project-description">Manche Fotos sehen in deiner Mediathek gut aus, leuchten aber viel zu hell, sobald du sie versendest oder postest. Das ist verstecktes HDR: zusätzliche Helligkeit, die im Foto gespeichert ist. No More HDR findet diese Fotos und wandelt sie in normale SDR-Kopien um.</p>
 
 <a class="project-link" href="/no-more-hdr/">Mehr über No More HDR</a>

@@ -10,6 +10,6 @@ permalink: /
 
 <h2 class="project-name">No More HDR</h2>
 
-<p class="project-description">I telefoni moderni nascondono dati di luminosità extra nelle foto, così si accendono con un lampo abbagliante appena le apri o le inoltri. No More HDR trova quelle foto e crea copie tranquille, dall'aspetto normale, elaborate interamente sul tuo dispositivo. Non viene caricato nulla.</p>
+<p class="project-description">Alcune foto sembrano normali nella tua libreria, ma abbagliano quando le invii o le pubblichi. È l’HDR nascosto: luminosità extra salvata dentro la foto. No More HDR trova queste foto e le trasforma in normali copie SDR.</p>
 
 <a class="project-link" href="/no-more-hdr/">Scopri No More HDR</a>

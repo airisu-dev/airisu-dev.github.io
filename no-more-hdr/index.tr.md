@@ -3,10 +3,10 @@ layout: page
 title: "No More HDR: Destek"
 permalink: /no-more-hdr/
 lang: tr
-share-description: "No More HDR, gizli HDR parlaklığı taşıyan fotoğrafları bulur ve sakin, normal görünümlü kopyalar oluşturur; işlem tamamen cihazınızda yapılır."
+share-description: "Fotoğrafların ekranınızı fazla parlak yapmasını durdurun. Kütüphanenizdeki gizli HDR’yi bulun ve normal kopyalar kaydedin; orijinaller güvende kalır."
 ---
 
-No More HDR, gizli HDR parlaklığı taşıyan fotoğrafları (bazı fotoğrafları birine gönderdiğinizde yaptığı "flaş" etkisi) bulur ve her ekranda aynı görünen SDR kopyaları oluşturur. Fotoğraflarınız cihazınızdan asla çıkmaz.
+Bazı fotoğraflar kütüphanenizde gayet normal görünür, ama gönderdiğinizde ya da paylaştığınızda gözünüzü alacak kadar parlak olur. Buna gizli HDR denir: fotoğrafın içinde saklı fazladan parlaklık. No More HDR bu fotoğrafları bulur ve normal SDR kopyalara dönüştürür. Fotoğraflarınız cihazınızdan asla çıkmaz.
 
 Yardıma mı ihtiyacınız var? Bize [airisu-dev@gmail.com](mailto:airisu-dev@gmail.com) adresinden e-posta gönderin veya [sorun bildirme](#how-to-report-a-problem) bölümüne bakın.
 

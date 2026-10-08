@@ -3,10 +3,10 @@ layout: page
 title: "No More HDR: Supporto"
 permalink: /no-more-hdr/
 lang: it
-share-description: "No More HDR trova le foto con luminosità HDR nascosta e crea copie tranquille, dall'aspetto normale, elaborate interamente sul tuo dispositivo."
+share-description: "Basta foto che rendono lo schermo troppo luminoso. Trova l’HDR nascosto nella tua libreria e salva copie normali, con gli originali al sicuro."
 ---
 
-No More HDR trova le foto che contengono luminosità HDR nascosta (il «lampo» che alcune foto producono quando le invii a qualcuno) e crea copie SDR che hanno lo stesso aspetto su ogni schermo. Le tue foto non lasciano mai il dispositivo.
+Alcune foto sembrano normali nella tua libreria, ma abbagliano quando le invii o le pubblichi. È l’HDR nascosto: luminosità extra salvata dentro la foto. No More HDR trova queste foto e le trasforma in normali copie SDR. Le tue foto non lasciano mai il dispositivo.
 
 Hai bisogno di aiuto? Scrivici a [airisu-dev@gmail.com](mailto:airisu-dev@gmail.com), oppure leggi [come segnalare un problema](#how-to-report-a-problem).
 

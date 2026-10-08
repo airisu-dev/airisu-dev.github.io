@@ -3,10 +3,10 @@ layout: page
 title: "No More HDR : Assistance"
 permalink: /no-more-hdr/
 lang: fr
-share-description: "No More HDR repère les photos à la luminosité HDR cachée et en crée des copies calmes, à l'apparence normale, traitées entièrement sur votre appareil."
+share-description: "Fini les photos qui rendent l’écran trop lumineux. Repérez le HDR caché dans votre photothèque et enregistrez des copies normales, vos originaux restent intacts."
 ---
 
-No More HDR repère les photos qui contiennent une luminosité HDR cachée (l'« éclair » que donnent certaines photos lorsque vous les envoyez à quelqu'un) et crée des copies SDR qui s'affichent de la même façon sur tous les écrans. Vos photos ne quittent jamais votre appareil.
+Certaines photos semblent normales dans votre photothèque, mais éblouissent quand vous les envoyez ou les publiez. C’est du HDR caché : une luminosité supplémentaire stockée dans la photo. No More HDR repère ces photos et les transforme en copies SDR normales. Vos photos ne quittent jamais votre appareil.
 
 Besoin d'aide ? Écrivez-nous à [airisu-dev@gmail.com](mailto:airisu-dev@gmail.com), ou consultez [comment signaler un problème](#how-to-report-a-problem).
 

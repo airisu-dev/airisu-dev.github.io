@@ -3,10 +3,10 @@ layout: page
 title: "No More HDR: Dukungan"
 permalink: /no-more-hdr/
 lang: id
-share-description: "No More HDR menemukan foto dengan kecerahan HDR tersembunyi dan membuat salinan yang tenang dan terlihat normal, diproses sepenuhnya di perangkat Anda."
+share-description: "Hentikan foto yang membuat layar terlalu terang. Temukan HDR tersembunyi di pustaka Anda dan simpan salinan normal, dengan file asli tetap aman."
 ---
 
-No More HDR menemukan foto yang membawa kecerahan HDR tersembunyi (efek "menyilaukan" yang muncul pada sebagian foto saat Anda mengirimnya ke orang lain) dan membuat salinan SDR yang terlihat sama di semua layar. Foto Anda tidak pernah meninggalkan perangkat Anda.
+Beberapa foto tampak normal di pustaka Anda, tetapi sangat menyilaukan saat dikirim atau diposting. Itulah HDR tersembunyi: kecerahan ekstra yang tersimpan di dalam foto. No More HDR menemukan foto-foto itu dan mengubahnya menjadi salinan SDR yang normal. Foto Anda tidak pernah meninggalkan perangkat Anda.
 
 Butuh bantuan? Kirim email ke [airisu-dev@gmail.com](mailto:airisu-dev@gmail.com), atau lihat [cara melaporkan masalah](#how-to-report-a-problem).
 

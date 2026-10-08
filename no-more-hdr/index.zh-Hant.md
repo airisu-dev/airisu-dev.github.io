@@ -3,10 +3,10 @@ layout: page
 title: "No More HDR：支援"
 permalink: /no-more-hdr/
 lang: zh-Hant
-share-description: "No More HDR 會找出藏有 HDR 亮度的照片，並製作柔和、看起來正常的副本，整個過程完全在你的裝置上處理。"
+share-description: "不再讓相片把螢幕照得太亮。找出相簿中隱藏的 HDR，儲存為正常的拷貝，原始相片安然無恙。"
 ---
 
-No More HDR 會找出藏有 HDR 亮度的照片（也就是傳給別人時會出現的那種「閃光」），並製作在任何螢幕上看起來都一樣的 SDR 副本。你的照片絕不會離開你的裝置。
+有些相片在相簿裡看起來很正常，傳送或貼出後卻亮得刺眼。這就是隱藏的 HDR：相片裡額外儲存的亮度資訊。「No More HDR」會找出這些相片，並把它們變成正常的 SDR 拷貝。你的照片絕不會離開你的裝置。
 
 需要協助嗎？請寄電子郵件至 [airisu-dev@gmail.com](mailto:airisu-dev@gmail.com)，或參閱[如何回報問題](#how-to-report-a-problem)。
 

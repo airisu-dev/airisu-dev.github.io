@@ -3,10 +3,10 @@ layout: page
 title: "No More HDR: Soporte"
 permalink: /no-more-hdr/
 lang: es
-share-description: "No More HDR encuentra fotos con brillo HDR oculto y crea copias tranquilas, de aspecto normal, procesadas por completo en tu dispositivo."
+share-description: "Evita que las fotos hagan tu pantalla demasiado brillante. Encuentra el HDR oculto en tu fototeca y guarda copias normales, con tus originales a salvo."
 ---
 
-No More HDR encuentra fotos que llevan brillo HDR oculto (el «destello» que algunas fotos producen cuando se las envías a alguien) y crea copias SDR que se ven igual en cualquier pantalla. Tus fotos nunca salen de tu dispositivo.
+Algunas fotos se ven bien en tu biblioteca, pero brillan demasiado al enviarlas o publicarlas. Eso es HDR oculto: brillo extra guardado dentro de la foto. No More HDR encuentra esas fotos y las convierte en copias SDR normales. Tus fotos nunca salen de tu dispositivo.
 
 ¿Necesitas ayuda? Escríbenos a [airisu-dev@gmail.com](mailto:airisu-dev@gmail.com) o consulta [cómo informar de un problema](#how-to-report-a-problem).
 

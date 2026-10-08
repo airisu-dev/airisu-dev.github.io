@@ -10,6 +10,6 @@ permalink: /
 
 <h2 class="project-name">No More HDR</h2>
 
-<p class="project-description">Les téléphones modernes glissent des données de luminosité supplémentaire dans les photos, qui s'affichent alors avec un éclat aveuglant dès que vous les ouvrez ou les transférez. No More HDR repère ces photos et en crée des copies calmes, à l'apparence normale, traitées entièrement sur votre appareil. Rien n'est envoyé en ligne.</p>
+<p class="project-description">Certaines photos semblent normales dans votre photothèque, mais éblouissent quand vous les envoyez ou les publiez. C’est du HDR caché : une luminosité supplémentaire stockée dans la photo. No More HDR repère ces photos et les transforme en copies SDR normales.</p>
 
 <a class="project-link" href="/no-more-hdr/">En savoir plus sur No More HDR</a>

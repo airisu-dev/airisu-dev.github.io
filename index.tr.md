@@ -10,6 +10,6 @@ permalink: /
 
 <h2 class="project-name">No More HDR</h2>
 
-<p class="project-description">Modern telefonlar fotoğrafların içine ekstra parlaklık verisi saklar; bu yüzden fotoğrafı açtığınız ya da ilettiğiniz anda göz alacak kadar parlak bir flaş gibi görünürler. No More HDR bu fotoğrafları bulur ve sakin, normal görünümlü kopyalar oluşturur; tüm işlem tamamen cihazınızda yapılır. Hiçbir şey yüklenmez.</p>
+<p class="project-description">Bazı fotoğraflar kütüphanenizde gayet normal görünür, ama gönderdiğinizde ya da paylaştığınızda gözünüzü alacak kadar parlak olur. Buna gizli HDR denir: fotoğrafın içinde saklı fazladan parlaklık. No More HDR bu fotoğrafları bulur ve normal SDR kopyalara dönüştürür.</p>
 
 <a class="project-link" href="/no-more-hdr/">No More HDR hakkında bilgi edinin</a>

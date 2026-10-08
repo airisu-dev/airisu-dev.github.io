@@ -3,10 +3,10 @@ layout: page
 title: "No More HDR: Support"
 permalink: /no-more-hdr/
 lang: en
-share-description: "No More HDR finds photos with hidden HDR brightness and makes calm, normal-looking copies, processed entirely on your device."
+share-description: "Stop photos from making your screen too bright. Find hidden HDR in your library and save normal copies, with your originals kept safe."
 ---
 
-No More HDR finds photos that carry hidden HDR brightness (the "flash" some photos give when you send them to someone) and makes SDR copies that look the same on every screen. Your photos never leave your device.
+Some photos look normal in your library but glow too bright when you send or post them. That is hidden HDR: extra brightness stored inside the photo. No More HDR finds those photos and turns them into normal SDR copies. Your photos never leave your device.
 
 Need help? Email us at [airisu-dev@gmail.com](mailto:airisu-dev@gmail.com), or see [how to report a problem](#how-to-report-a-problem).
 

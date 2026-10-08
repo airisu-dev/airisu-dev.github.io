@@ -10,6 +10,6 @@ permalink: /
 
 <h2 class="project-name">No More HDR</h2>
 
-<p class="project-description">Ponsel modern menyelipkan data kecerahan ekstra ke dalam foto, sehingga foto langsung menyilaukan mata saat Anda membuka atau meneruskannya. No More HDR menemukan foto-foto tersebut dan membuat salinan yang tenang dan terlihat normal, diproses sepenuhnya di perangkat Anda. Tidak ada yang diunggah.</p>
+<p class="project-description">Beberapa foto tampak normal di pustaka Anda, tetapi sangat menyilaukan saat dikirim atau diposting. Itulah HDR tersembunyi: kecerahan ekstra yang tersimpan di dalam foto. No More HDR menemukan foto-foto itu dan mengubahnya menjadi salinan SDR yang normal.</p>
 
 <a class="project-link" href="/no-more-hdr/">Baca tentang No More HDR</a>

@@ -10,6 +10,6 @@ permalink: /
 
 <h2 class="project-name">No More HDR</h2>
 
-<p class="project-description">最近のスマートフォンは写真の中に余分な明るさのデータを隠しているため、写真を開いたり転送したりした瞬間に、目が痛くなるほど眩しく光ることがあります。No More HDRはそうした写真を見つけて、落ち着いた自然な見た目のコピーを作ります。処理はすべてデバイス上で行われ、何もアップロードされません。</p>
+<p class="project-description">ライブラリでは普通に見えるのに、送ったり投稿したりすると異様にまぶしく光る写真があります。その原因が隠れたHDR、つまり写真の中に保存された余分な明るさの情報です。No More HDRはそうした写真を見つけて、通常のSDRコピーに変換します。</p>
 
 <a class="project-link" href="/no-more-hdr/">No More HDRについて読む</a>

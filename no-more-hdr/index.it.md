@@ -6,7 +6,7 @@ lang: it
 share-description: "Basta foto che rendono lo schermo troppo luminoso. Trova l’HDR nascosto nella tua libreria e salva copie normali, con gli originali al sicuro."
 ---
 
-Alcune foto sembrano normali nella tua libreria, ma abbagliano quando le invii o le pubblichi. È l’HDR nascosto: luminosità extra salvata dentro la foto. No More HDR trova queste foto e le trasforma in normali copie SDR. Le tue foto non lasciano mai il dispositivo.
+Le foto scattate fanno brillare troppo il tuo telefono quando le guardi o le pubblichi. È l’HDR nascosto: luminosità extra salvata dentro la foto. No More HDR trova queste foto e le trasforma in normali copie SDR. Le tue foto non lasciano mai il dispositivo.
 
 Hai bisogno di aiuto? Scrivici a [airisu-dev@gmail.com](mailto:airisu-dev@gmail.com), oppure leggi [come segnalare un problema](#how-to-report-a-problem).
 

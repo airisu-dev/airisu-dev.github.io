@@ -10,6 +10,6 @@ permalink: /
 
 <h2 class="project-name">No More HDR</h2>
 
-<p class="project-description">有些照片在图库里看起来很正常，发送或发布后却亮得刺眼。这就是隐藏的 HDR：照片里额外储存的亮度信息。“No More HDR”会找出这些照片，并把它们变成正常的 SDR 副本。</p>
+<p class="project-description">拍下的照片在查看或发布时，会让手机亮得刺眼。这就是隐藏的 HDR：照片里额外储存的亮度信息。“No More HDR”会找出这些照片，并把它们变成正常的 SDR 副本。</p>
 
 <a class="project-link" href="/no-more-hdr/">了解 No More HDR</a>

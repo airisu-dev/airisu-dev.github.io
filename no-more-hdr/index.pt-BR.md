@@ -6,7 +6,7 @@ lang: pt-BR
 share-description: "Evite que fotos deixem sua tela brilhante demais. Encontre o HDR oculto na sua biblioteca e salve cópias normais, com seus originais em segurança."
 ---
 
-Algumas fotos parecem normais na sua biblioteca, mas ficam brilhantes demais quando você as envia ou publica. É o HDR oculto: brilho extra guardado dentro da foto. O No More HDR encontra essas fotos e as transforma em cópias SDR normais. Suas fotos nunca saem do seu dispositivo.
+Fotos capturadas fazem o seu celular brilhar demais ao visualizá-las ou publicá-las. É o HDR oculto: brilho extra guardado dentro da foto. O No More HDR encontra essas fotos e as transforma em cópias SDR normais. Suas fotos nunca saem do seu dispositivo.
 
 Precisa de ajuda? Envie um e-mail para [airisu-dev@gmail.com](mailto:airisu-dev@gmail.com) ou veja [como relatar um problema](#how-to-report-a-problem).
 

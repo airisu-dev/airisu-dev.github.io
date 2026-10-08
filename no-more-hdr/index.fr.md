@@ -6,7 +6,7 @@ lang: fr
 share-description: "Fini les photos qui rendent l’écran trop lumineux. Repérez le HDR caché dans votre photothèque et enregistrez des copies normales, vos originaux restent intacts."
 ---
 
-Certaines photos semblent normales dans votre photothèque, mais éblouissent quand vous les envoyez ou les publiez. C’est du HDR caché : une luminosité supplémentaire stockée dans la photo. No More HDR repère ces photos et les transforme en copies SDR normales. Vos photos ne quittent jamais votre appareil.
+Les photos prises font briller votre téléphone de façon excessive quand vous les regardez ou les publiez. C’est du HDR caché : une luminosité supplémentaire stockée dans la photo. No More HDR repère ces photos et les transforme en copies SDR normales. Vos photos ne quittent jamais votre appareil.
 
 Besoin d'aide ? Écrivez-nous à [airisu-dev@gmail.com](mailto:airisu-dev@gmail.com), ou consultez [comment signaler un problème](#how-to-report-a-problem).
 

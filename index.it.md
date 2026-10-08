@@ -10,6 +10,6 @@ permalink: /
 
 <h2 class="project-name">No More HDR</h2>
 
-<p class="project-description">Alcune foto sembrano normali nella tua libreria, ma abbagliano quando le invii o le pubblichi. È l’HDR nascosto: luminosità extra salvata dentro la foto. No More HDR trova queste foto e le trasforma in normali copie SDR.</p>
+<p class="project-description">Le foto scattate fanno brillare troppo il tuo telefono quando le guardi o le pubblichi. È l’HDR nascosto: luminosità extra salvata dentro la foto. No More HDR trova queste foto e le trasforma in normali copie SDR.</p>
 
 <a class="project-link" href="/no-more-hdr/">Scopri No More HDR</a>

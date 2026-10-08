@@ -6,7 +6,7 @@ lang: id
 share-description: "Hentikan foto yang membuat layar terlalu terang. Temukan HDR tersembunyi di pustaka Anda dan simpan salinan normal, dengan file asli tetap aman."
 ---
 
-Beberapa foto tampak normal di pustaka Anda, tetapi sangat menyilaukan saat dikirim atau diposting. Itulah HDR tersembunyi: kecerahan ekstra yang tersimpan di dalam foto. No More HDR menemukan foto-foto itu dan mengubahnya menjadi salinan SDR yang normal. Foto Anda tidak pernah meninggalkan perangkat Anda.
+Foto yang diambil dapat membuat ponsel Anda menyala terlalu terang saat dilihat atau diposting. Itulah HDR tersembunyi: kecerahan ekstra yang tersimpan di dalam foto. No More HDR menemukan foto-foto itu dan mengubahnya menjadi salinan SDR yang normal. Foto Anda tidak pernah meninggalkan perangkat Anda.
 
 Butuh bantuan? Kirim email ke [airisu-dev@gmail.com](mailto:airisu-dev@gmail.com), atau lihat [cara melaporkan masalah](#how-to-report-a-problem).
 

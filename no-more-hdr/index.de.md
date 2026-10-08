@@ -6,7 +6,7 @@ lang: de
 share-description: "Schluss mit Fotos, die den Bildschirm zu hell machen. Finde verstecktes HDR in deiner Mediathek und speichere normale Kopien. Deine Originale bleiben sicher."
 ---
 
-Manche Fotos sehen in deiner Mediathek gut aus, leuchten aber viel zu hell, sobald du sie versendest oder postest. Das ist verstecktes HDR: zusätzliche Helligkeit, die im Foto gespeichert ist. No More HDR findet diese Fotos und wandelt sie in normale SDR-Kopien um. Deine Fotos verlassen dein Gerät nie.
+Aufgenommene Fotos lassen dein Handy beim Ansehen oder Posten viel zu hell leuchten. Das ist verstecktes HDR: zusätzliche Helligkeit, die im Foto gespeichert ist. No More HDR findet diese Fotos und wandelt sie in normale SDR-Kopien um. Deine Fotos verlassen dein Gerät nie.
 
 Brauchst du Hilfe? Schreib uns an [airisu-dev@gmail.com](mailto:airisu-dev@gmail.com) oder lies, [wie du ein Problem meldest](#how-to-report-a-problem).
 

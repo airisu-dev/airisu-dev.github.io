@@ -6,7 +6,7 @@ lang: zh-Hans
 share-description: "不再让照片把屏幕照得太亮。找出图库中隐藏的 HDR，保存为正常的副本，原始照片安然无恙。"
 ---
 
-有些照片在图库里看起来很正常，发送或发布后却亮得刺眼。这就是隐藏的 HDR：照片里额外储存的亮度信息。“No More HDR”会找出这些照片，并把它们变成正常的 SDR 副本。你的照片绝不会离开你的设备。
+拍下的照片在查看或发布时，会让手机亮得刺眼。这就是隐藏的 HDR：照片里额外储存的亮度信息。“No More HDR”会找出这些照片，并把它们变成正常的 SDR 副本。你的照片绝不会离开你的设备。
 
 需要帮助？请发送电子邮件至 [airisu-dev@gmail.com](mailto:airisu-dev@gmail.com)，或查看[如何报告问题](#how-to-report-a-problem)。
 

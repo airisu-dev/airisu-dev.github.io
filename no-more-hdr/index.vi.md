@@ -6,7 +6,7 @@ lang: vi
 share-description: "Không còn ảnh làm màn hình quá sáng. Tìm HDR ẩn trong thư viện và lưu bản sao bình thường, ảnh gốc vẫn được giữ an toàn."
 ---
 
-Một số ảnh trông bình thường trong thư viện, nhưng lại sáng chói khi bạn gửi hoặc đăng. Đó là HDR ẩn: độ sáng bổ sung được lưu bên trong ảnh. No More HDR tìm những ảnh đó và biến chúng thành bản sao SDR bình thường. Ảnh của bạn không bao giờ rời khỏi thiết bị.
+Ảnh đã chụp có thể khiến điện thoại của bạn sáng chói khi xem hoặc đăng. Đó là HDR ẩn: độ sáng bổ sung được lưu bên trong ảnh. No More HDR tìm những ảnh đó và biến chúng thành bản sao SDR bình thường. Ảnh của bạn không bao giờ rời khỏi thiết bị.
 
 Cần hỗ trợ? Gửi email cho chúng tôi tại [airisu-dev@gmail.com](mailto:airisu-dev@gmail.com), hoặc xem [cách báo lỗi](#cách-báo-lỗi).
 

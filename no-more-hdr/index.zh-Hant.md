@@ -6,7 +6,7 @@ lang: zh-Hant
 share-description: "不再讓相片把螢幕照得太亮。找出相簿中隱藏的 HDR，儲存為正常的拷貝，原始相片安然無恙。"
 ---
 
-有些相片在相簿裡看起來很正常，傳送或貼出後卻亮得刺眼。這就是隱藏的 HDR：相片裡額外儲存的亮度資訊。「No More HDR」會找出這些相片，並把它們變成正常的 SDR 拷貝。你的照片絕不會離開你的裝置。
+拍下的相片在檢視或貼出時，會讓手機亮得刺眼。這就是隱藏的 HDR：相片裡額外儲存的亮度資訊。「No More HDR」會找出這些相片，並把它們變成正常的 SDR 拷貝。你的照片絕不會離開你的裝置。
 
 需要協助嗎？請寄電子郵件至 [airisu-dev@gmail.com](mailto:airisu-dev@gmail.com)，或參閱[如何回報問題](#how-to-report-a-problem)。
 

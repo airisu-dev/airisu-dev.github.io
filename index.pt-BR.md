@@ -10,6 +10,6 @@ permalink: /
 
 <h2 class="project-name">No More HDR</h2>
 
-<p class="project-description">Algumas fotos parecem normais na sua biblioteca, mas ficam brilhantes demais quando você as envia ou publica. É o HDR oculto: brilho extra guardado dentro da foto. O No More HDR encontra essas fotos e as transforma em cópias SDR normais.</p>
+<p class="project-description">Fotos capturadas fazem o seu celular brilhar demais ao visualizá-las ou publicá-las. É o HDR oculto: brilho extra guardado dentro da foto. O No More HDR encontra essas fotos e as transforma em cópias SDR normais.</p>
 
 <a class="project-link" href="/no-more-hdr/">Saiba mais sobre o No More HDR</a>

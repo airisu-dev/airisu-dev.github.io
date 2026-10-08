@@ -6,7 +6,7 @@ lang: tr
 share-description: "Fotoğrafların ekranınızı fazla parlak yapmasını durdurun. Kütüphanenizdeki gizli HDR’yi bulun ve normal kopyalar kaydedin; orijinaller güvende kalır."
 ---
 
-Bazı fotoğraflar kütüphanenizde gayet normal görünür, ama gönderdiğinizde ya da paylaştığınızda gözünüzü alacak kadar parlak olur. Buna gizli HDR denir: fotoğrafın içinde saklı fazladan parlaklık. No More HDR bu fotoğrafları bulur ve normal SDR kopyalara dönüştürür. Fotoğraflarınız cihazınızdan asla çıkmaz.
+Çekilen fotoğraflar, görüntülerken ya da paylaşırken telefonunuzun fazla parlak görünmesine neden olur. Buna gizli HDR denir: fotoğrafın içinde saklı fazladan parlaklık. No More HDR bu fotoğrafları bulur ve normal SDR kopyalara dönüştürür. Fotoğraflarınız cihazınızdan asla çıkmaz.
 
 Yardıma mı ihtiyacınız var? Bize [airisu-dev@gmail.com](mailto:airisu-dev@gmail.com) adresinden e-posta gönderin veya [sorun bildirme](#how-to-report-a-problem) bölümüne bakın.
 
